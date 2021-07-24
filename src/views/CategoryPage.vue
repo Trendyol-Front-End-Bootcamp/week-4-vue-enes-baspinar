@@ -14,8 +14,8 @@
         @change="getData"
       >
       </v-text-field
-      >. This API leads to anger. Anger leads to hate. Hate leads to suffering
-      ...
+      >. This API leads to anger. Anger leads to hate. Hate leads to suffering.
+      I am feared.
     </div>
     <CategoryContentList :category="category" :contents="contents" />
   </v-container>
