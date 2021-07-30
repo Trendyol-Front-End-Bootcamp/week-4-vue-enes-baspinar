@@ -1,4 +1,8 @@
-# starwars
+# Vue with Star Wars API - Trendyol Frontend Bootcamp Week 4
+
+## Project Details
+
+This project lists Star Wars characters, vehicles, planets and more. We can also apply filtering.
 
 ## Project setup
 ```
